@@ -1,2 +1,4 @@
 Just a small side project. I was studying DS and started using visualizers online so thought of creating a visualizer of my own with animations that I like although I suck at animating (learning that on the side as well"). The current project is extremely raw and can only showcase and detect basic structures. Will be working on it consistently to improve and add more structures and make it more dynamic.
 Suggestions pr collabs are welcome!
+
+Link to the website- https://mb200516.github.io/Codelyze/
